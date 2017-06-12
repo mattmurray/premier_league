@@ -1,0 +1,341 @@
+Pos,Team,Pts,season
+1,Manchester United,80,2000-01
+2,Arsenal,70,2000-01
+3,Liverpool,69,2000-01
+4,Leeds United,68,2000-01
+5,Ipswich Town,66,2000-01
+6,Chelsea,61,2000-01
+7,Sunderland,57,2000-01
+8,Aston Villa,54,2000-01
+9,Charlton Athletic,52,2000-01
+10,Southampton,52,2000-01
+11,Newcastle United,51,2000-01
+12,Tottenham Hotspur,49,2000-01
+13,Leicester City,48,2000-01
+14,Middlesbrough,42,2000-01
+15,West Ham United,42,2000-01
+16,Everton,42,2000-01
+17,Derby County,42,2000-01
+18,Manchester City,34,2000-01
+19,Coventry City,34,2000-01
+20,Bradford City,26,2000-01
+1,Arsenal,87,2001-02
+2,Liverpool,80,2001-02
+3,Manchester United,77,2001-02
+4,Newcastle United,71,2001-02
+5,Leeds United,66,2001-02
+6,Chelsea,64,2001-02
+7,West Ham United,53,2001-02
+8,Aston Villa,50,2001-02
+9,Tottenham Hotspur,50,2001-02
+10,Blackburn Rovers,46,2001-02
+11,Southampton,45,2001-02
+12,Middlesbrough,45,2001-02
+13,Fulham,44,2001-02
+14,Charlton Athletic,44,2001-02
+15,Everton,43,2001-02
+16,Bolton Wanderers,40,2001-02
+17,Sunderland,40,2001-02
+18,Ipswich Town,36,2001-02
+19,Derby County,30,2001-02
+20,Leicester City,28,2001-02
+1,Manchester United,83,2002-03
+2,Arsenal,78,2002-03
+3,Newcastle United,69,2002-03
+4,Chelsea,67,2002-03
+5,Liverpool,64,2002-03
+6,Blackburn Rovers,60,2002-03
+7,Everton,59,2002-03
+8,Southampton,52,2002-03
+9,Manchester City,51,2002-03
+10,Tottenham Hotspur,50,2002-03
+11,Middlesbrough,49,2002-03
+12,Charlton Athletic,49,2002-03
+13,Birmingham City,48,2002-03
+14,Fulham,48,2002-03
+15,Leeds United,47,2002-03
+16,Aston Villa,45,2002-03
+17,Bolton Wanderers,44,2002-03
+18,West Ham United,42,2002-03
+19,West Bromwich Albion,26,2002-03
+20,Sunderland,19,2002-03
+1,Arsenal,90,2003-04
+2,Chelsea,79,2003-04
+3,Manchester United,75,2003-04
+4,Liverpool,60,2003-04
+5,Newcastle United,56,2003-04
+6,Aston Villa,56,2003-04
+7,Charlton Athletic,53,2003-04
+8,Bolton Wanderers,53,2003-04
+9,Fulham,52,2003-04
+10,Birmingham City,50,2003-04
+11,Middlesbrough,48,2003-04
+12,Southampton,47,2003-04
+13,Portsmouth,45,2003-04
+14,Tottenham Hotspur,45,2003-04
+15,Blackburn Rovers,44,2003-04
+16,Manchester City,41,2003-04
+17,Everton,39,2003-04
+18,Leicester City,33,2003-04
+19,Leeds United,33,2003-04
+20,Wolverhampton Wanderers,33,2003-04
+1,Chelsea,95,2004-05
+2,Arsenal,83,2004-05
+3,Manchester United,77,2004-05
+4,Everton,61,2004-05
+5,Liverpool,58,2004-05
+6,Bolton Wanderers,58,2004-05
+7,Middlesbrough,55,2004-05
+8,Manchester City,52,2004-05
+9,Tottenham Hotspur,52,2004-05
+10,Aston Villa,47,2004-05
+11,Charlton Athletic,46,2004-05
+12,Birmingham City,45,2004-05
+13,Fulham,44,2004-05
+14,Newcastle United,44,2004-05
+15,Blackburn Rovers,42,2004-05
+16,Portsmouth,39,2004-05
+17,West Bromwich Albion,34,2004-05
+18,Crystal Palace,33,2004-05
+19,Norwich City,33,2004-05
+20,Southampton,32,2004-05
+1,Chelsea,91,2005-06
+2,Manchester United,83,2005-06
+3,Liverpool,82,2005-06
+4,Arsenal,67,2005-06
+5,Tottenham Hotspur,65,2005-06
+6,Blackburn Rovers,63,2005-06
+7,Newcastle United,58,2005-06
+8,Bolton Wanderers,56,2005-06
+9,West Ham United,55,2005-06
+10,Wigan Athletic,51,2005-06
+11,Everton,50,2005-06
+12,Fulham,48,2005-06
+13,Charlton Athletic,47,2005-06
+14,Middlesbrough,45,2005-06
+15,Manchester City,43,2005-06
+16,Aston Villa,42,2005-06
+17,Portsmouth,38,2005-06
+18,Birmingham City,34,2005-06
+19,West Bromwich Albion,30,2005-06
+20,Sunderland,15,2005-06
+1,Manchester United,89,2006-07
+2,Chelsea,83,2006-07
+3,Liverpool,68,2006-07
+4,Arsenal,68,2006-07
+5,Tottenham Hotspur,60,2006-07
+6,Everton,58,2006-07
+7,Bolton Wanderers,56,2006-07
+8,Reading,55,2006-07
+9,Portsmouth,54,2006-07
+10,Blackburn Rovers,52,2006-07
+11,Aston Villa,50,2006-07
+12,Middlesbrough,46,2006-07
+13,Newcastle United,43,2006-07
+14,Manchester City,42,2006-07
+15,West Ham United,41,2006-07
+16,Fulham,39,2006-07
+17,Wigan Athletic,38,2006-07
+18,Sheffield United,38,2006-07
+19,Charlton Athletic,34,2006-07
+20,Watford,28,2006-07
+1,Manchester United,87,2007-08
+2,Chelsea,85,2007-08
+3,Arsenal,83,2007-08
+4,Liverpool,76,2007-08
+5,Everton,65,2007-08
+6,Aston Villa,60,2007-08
+7,Blackburn Rovers,58,2007-08
+8,Portsmouth,57,2007-08
+9,Manchester City,55,2007-08
+10,West Ham United,49,2007-08
+11,Tottenham Hotspur,46,2007-08
+12,Newcastle United,43,2007-08
+13,Middlesbrough,42,2007-08
+14,Wigan Athletic,40,2007-08
+15,Sunderland,39,2007-08
+16,Bolton Wanderers,37,2007-08
+17,Fulham,36,2007-08
+18,Reading,36,2007-08
+19,Birmingham City,35,2007-08
+20,Derby County,11,2007-08
+1,Manchester United,90,2008-09
+2,Liverpool,86,2008-09
+3,Chelsea,83,2008-09
+4,Arsenal,72,2008-09
+5,Everton,63,2008-09
+6,Aston Villa,62,2008-09
+7,Fulham,53,2008-09
+8,Tottenham Hotspur,51,2008-09
+9,West Ham United,51,2008-09
+10,Manchester City,50,2008-09
+11,Wigan Athletic,45,2008-09
+12,Stoke City,45,2008-09
+13,Bolton Wanderers,41,2008-09
+14,Portsmouth,41,2008-09
+15,Blackburn Rovers,41,2008-09
+16,Sunderland,36,2008-09
+17,Hull City,35,2008-09
+18,Newcastle United,34,2008-09
+19,Middlesbrough,32,2008-09
+20,West Bromwich Albion,32,2008-09
+1,Chelsea,86,2009-10
+2,Manchester United,85,2009-10
+3,Arsenal,75,2009-10
+4,Tottenham Hotspur,70,2009-10
+5,Manchester City,67,2009-10
+6,Aston Villa,64,2009-10
+7,Liverpool,63,2009-10
+8,Everton,61,2009-10
+9,Birmingham City,50,2009-10
+10,Blackburn Rovers,50,2009-10
+11,Stoke City,47,2009-10
+12,Fulham,46,2009-10
+13,Sunderland,44,2009-10
+14,Bolton Wanderers,39,2009-10
+15,Wolverhampton Wanderers,38,2009-10
+16,Wigan Athletic,36,2009-10
+17,West Ham United,35,2009-10
+18,Burnley,30,2009-10
+19,Hull City,30,2009-10
+20,Portsmouth,191,2009-10
+1,Manchester United,80,2010-11
+2,Chelsea,71,2010-11
+3,Manchester City,71,2010-11
+4,Arsenal,68,2010-11
+5,Tottenham Hotspur,62,2010-11
+6,Liverpool,58,2010-11
+7,Everton,54,2010-11
+8,Fulham,49,2010-11
+9,Aston Villa,48,2010-11
+10,Sunderland,47,2010-11
+11,West Bromwich Albion,47,2010-11
+12,Newcastle United,46,2010-11
+13,Stoke City,46,2010-11
+14,Bolton Wanderers,46,2010-11
+15,Blackburn Rovers,43,2010-11
+16,Wigan Athletic,42,2010-11
+17,Wolverhampton Wanderers,40,2010-11
+18,Birmingham City,39,2010-11
+19,Blackpool,39,2010-11
+20,West Ham United,33,2010-11
+1,Manchester City,89,2011-12
+2,Manchester United,89,2011-12
+3,Arsenal,70,2011-12
+4,Tottenham Hotspur,69,2011-12
+5,Newcastle United,65,2011-12
+6,Chelsea,64,2011-12
+7,Everton,56,2011-12
+8,Liverpool,52,2011-12
+9,Fulham,52,2011-12
+10,West Bromwich Albion,47,2011-12
+11,Swansea City,47,2011-12
+12,Norwich City,47,2011-12
+13,Sunderland,45,2011-12
+14,Stoke City,45,2011-12
+15,Wigan Athletic,43,2011-12
+16,Aston Villa,38,2011-12
+17,QPR,37,2011-12
+18,Bolton Wanderers,36,2011-12
+19,Blackburn Rovers,31,2011-12
+20,Wolverhampton Wanderers,25,2011-12
+1,Manchester United,89,2012-13
+2,Manchester City,78,2012-13
+3,Chelsea,75,2012-13
+4,Arsenal,73,2012-13
+5,Tottenham Hotspur,72,2012-13
+6,Everton,63,2012-13
+7,Liverpool,61,2012-13
+8,West Bromwich Albion,49,2012-13
+9,Swansea City,46,2012-13
+10,West Ham United,46,2012-13
+11,Norwich City,44,2012-13
+12,Fulham,43,2012-13
+13,Stoke City,42,2012-13
+14,Southampton,41,2012-13
+15,Aston Villa,41,2012-13
+16,Newcastle United,41,2012-13
+17,Sunderland,39,2012-13
+18,Wigan Athletic,36,2012-13
+19,Reading,28,2012-13
+20,QPR,25,2012-13
+1,Manchester City,86,2013-14
+2,Liverpool,84,2013-14
+3,Chelsea,82,2013-14
+4,Arsenal,79,2013-14
+5,Everton,72,2013-14
+6,Tottenham Hotspur,69,2013-14
+7,Manchester United,64,2013-14
+8,Southampton,56,2013-14
+9,Stoke City,50,2013-14
+10,Newcastle United,49,2013-14
+11,Crystal Palace,45,2013-14
+12,Swansea City,42,2013-14
+13,West Ham United,40,2013-14
+14,Sunderland,38,2013-14
+15,Aston Villa,38,2013-14
+16,Hull City,37,2013-14
+17,West Bromwich Albion,36,2013-14
+18,Norwich City,33,2013-14
+19,Fulham,32,2013-14
+20,Cardiff City,30,2013-14
+1,Chelsea,87,2014-15
+2,Manchester City,79,2014-15
+3,Arsenal,75,2014-15
+4,Manchester United,70,2014-15
+5,Tottenham Hotspur,64,2014-15
+6,Liverpool,62,2014-15
+7,Southampton,60,2014-15
+8,Swansea City,56,2014-15
+9,Stoke City,54,2014-15
+10,Crystal Palace,48,2014-15
+11,Everton,47,2014-15
+12,West Ham United,47,2014-15
+13,West Bromwich Albion,44,2014-15
+14,Leicester City,41,2014-15
+15,Newcastle United,39,2014-15
+16,Sunderland,38,2014-15
+17,Aston Villa,38,2014-15
+18,Hull City,35,2014-15
+19,Burnley,33,2014-15
+20,QPR,30,2014-15
+1,Leicester City,81,2015-16
+2,Arsenal,71,2015-16
+3,Tottenham Hotspur,70,2015-16
+4,Manchester City,66,2015-16
+5,Manchester United,66,2015-16
+6,Southampton,63,2015-16
+7,West Ham United,62,2015-16
+8,Liverpool,60,2015-16
+9,Stoke City,51,2015-16
+10,Chelsea,50,2015-16
+11,Everton,47,2015-16
+12,Swansea City,47,2015-16
+13,Watford,45,2015-16
+14,West Bromwich Albion,43,2015-16
+15,Crystal Palace,42,2015-16
+16,Bournemouth,42,2015-16
+17,Sunderland,39,2015-16
+18,Newcastle United,37,2015-16
+19,Norwich City,34,2015-16
+20,Aston Villa,17,2015-16
+1,Chelsea,93,2016-17
+2,Tottenham Hotspur,86,2016-17
+3,Manchester City,78,2016-17
+4,Liverpool,76,2016-17
+5,Arsenal,75,2016-17
+6,Manchester United,69,2016-17
+7,Everton,61,2016-17
+8,Southampton,46,2016-17
+9,Bournemouth,46,2016-17
+10,West Bromwich Albion,45,2016-17
+11,West Ham United,45,2016-17
+12,Leicester City,44,2016-17
+13,Stoke City,44,2016-17
+14,Crystal Palace,41,2016-17
+15,Swansea City,41,2016-17
+16,Burnley,40,2016-17
+17,Watford,40,2016-17
+18,Hull City,34,2016-17
+19,Middlesbrough,28,2016-17
+20,Sunderland,24,2016-17
